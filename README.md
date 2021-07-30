@@ -1,1 +1,1 @@
-# BottledLunacy-Coursera_Capstone
+# Battle of the neighbourhoods Capstone project
